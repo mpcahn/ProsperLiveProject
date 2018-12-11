@@ -28,16 +28,7 @@ For the dropdowns in the "checklist completion" column on the JPStudentRundown i
 ### Hires
 
 Style the Details view of the JPHires contoller to have a banner at the top and display the congratulatory header on top of that (similar to what is 
-being done on the Analytics view of the Analytics controller). Your choice on the banner image/styling	
-
-### StudentIndex
-
-In the StudentIndex view of the JPApplications controller, move the search bar to be left of the container and change the current one the style 
-of the one found in the JPNotifications update view.
-
-### General
-
-Increase the size of the pencil, trashcan, envelope, and grad cap icons throughout the site so it is easier to distinguish what the icons are.	
+being done on the Analytics view of the Analytics controller). Your choice on the banner image/styling		
 
 
 
