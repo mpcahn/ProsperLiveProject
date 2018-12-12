@@ -1,5 +1,5 @@
 # ProsperLiveProject
-This repo contains the relevent project files that I worked on with Prosper IT Consulting posted with their permission to showcase my ability to work on a team on a functioning web project.
+This repo contains the relevent project files that I worked on with Prosper IT Consulting posted with their permission to showcase my ability to work on a team on a functioning ASP.NET web project.
 
 ## Edit History
 ### ProsperBulletin
